@@ -16,5 +16,3 @@ dependencies = [
     "xgboost>=3.0.1",
 ]
 
-[tool.uv.sources]
-sk-stepwise = { path = "../../../pylib/sk-stepwise/dist/sk_stepwise-0.1.2.tar.gz" }
