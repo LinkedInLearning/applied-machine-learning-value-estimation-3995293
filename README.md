@@ -5,6 +5,9 @@ This is the repository for the LinkedIn Learning course `Applied Machine Learnin
 
 _See the readme file in the main branch for updated instructions and information._
 
+## Course Description
+
+In this course, Matt Harrison—a Python and data science corporate trainer, author, speaker, consultant, and advisor—focuses on building and deploying value estimation models using Python and machine learning. Learn how to use Linear Regression and XGBoost to predict the value of homes based on their characteristics and location. Explore data exploration, preprocessing, and evaluation techniques. Plus, dive into machine learning by training both simple and advanced models.
 
 ## Installation
 
@@ -53,6 +56,6 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQHDOm3DVzUfqg/learning-public-crop_675_1200/B4EZUpkmAfGgAY-/0/1740159214378?e=2147483647&v=beta&t=yfB6yVe8_8VeRs3WUksKIF7mdXocVnPFGQPOK-3-UFA
+[lil-course-url]: https://www.linkedin.com/learning/applied-machine-learning-value-estimation
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D560DAQH-PFUT6NWfzQ/learning-public-crop_675_1200/B56ZgfR0hIH0Ac-/0/1752871422309?e=2147483647&v=beta&t=2tFZybW5ZRYdDLNQ7VRWM2X0oiLozbzI9CdMdtBx38Q
 
